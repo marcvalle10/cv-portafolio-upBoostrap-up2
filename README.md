@@ -11,7 +11,7 @@ Incluye tu imagen exportada con una etiqueta <img> y un pequeño texto descripti
 Ejemplo:
       <section id="skillmap">   
         <h2>Mi mapa de habilidades</h2>          
-        <img src="imagenes/skillmap.png" alt="Mapa de habilidades">   
+        <img src="img/skillmap.png" alt="Mapa de habilidades">   
         <p>Representa mis principales competencias y áreas de desarrollo profesional.</p> 
      </section>
 
